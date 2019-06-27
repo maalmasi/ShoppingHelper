@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ShoppingHelper</string>
+    <string name="take_picture">Take picture</string>
+    <string name="find_in_database">Search from taken picture</string>
+    <string name="btnAddProduct">Add product to database</string>
+    <string name="update_product">Update product</string>
+    <string name="trHeaderStore">Store</string>
+    <string name="trHeaderPrice">Price</string>
+    <string name="product_404">Product doesn\'t exist yet.</string>
+    <string name="name">Name:</string>
+    <string name="barcode">Barcode:</string>
+    <string name="konzum">Konzum</string>
+    <string name="spar">Spar</string>
+    <string name="tisak">Tisak</string>
+    <string name="enter_price_in_konzum">Enter price in Konzum</string>
+    <string name="enter_price_in_spar">Enter price in Spar</string>
+    <string name="enter_price_in_tisak">Enter price in Tisak</string>
+    <string name="enter_name">Enter name</string>
+    <string name="addToBase">Add to Database</string>
+    <string name="AddProductTitle">Add product to database</string>
+    <string name="search_in_database">Search in database</string>
+    <string name="search">Search</string>
+</resources>
